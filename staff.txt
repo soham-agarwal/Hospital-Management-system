@@ -1,0 +1,17 @@
+
+ Name: aalia
+ Age: 18
+ Salary: 100000
+ Working position: internship
+ Name: Harkirat
+ Age: 17
+ Salary: 200000
+ Working position: Manager
+ Name: Darsh
+ Age: 18
+ Salary: 100000
+ Working position: Executive 
+ Name: Karan
+ Age: 18
+ Salary: 150000
+ Working position: Receptionist 
